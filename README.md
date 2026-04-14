@@ -68,7 +68,9 @@ pip install -r requirements.txt
 
 ```Run:
 
-python main.py
+python main.py --state calm --mode 2d
+python main.py --state distract --mode 3d
+python main.py --state focus --mode both
 ```
 
 <h3>You will see:</h3>
