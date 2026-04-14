@@ -7,7 +7,7 @@ This project demonstrates how mental states such as focus and signal amplitude i
 
 ---
 
-<h2>✨ Features<h2>
+<h2>✨ Features</h2>
 
 - 🧠 Brainwave Signal Simulation
 - ⚛️ Quantum Light Interference
@@ -23,11 +23,10 @@ This project demonstrates how mental states such as focus and signal amplitude i
 
 The system maps cognitive parameters to wave behavior:
 
-Brain Parameter     Wave Behavior
+<h3> Brain Parameter     Wave Behavior</h3>
 
-Signal Amplitude	Wave Intensity
-
-Mental Focus	    Wave Coherence
+- Signal Amplitude	Wave Intensity
+- Mental Focus	    Wave Coherence
 
 <h3>Interpretation</h3>
 
@@ -38,6 +37,7 @@ Mental Focus	    Wave Coherence
 ---
 
 <h2>🏗️ Project Structure</h2>
+
 ```
 brainwave_quantum_sim/
 │
@@ -81,7 +81,7 @@ python main.py
 
 <h2>🧠 How It Works</h2>
 
-<h3>Step 1 — Brainwave Simulation<h3>
+<h3>Step 1 — Brainwave Simulation</h3>
 
 Simulated EEG signals generate:
 
