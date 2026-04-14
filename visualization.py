@@ -1,4 +1,3 @@
-import wave
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 
@@ -28,6 +27,5 @@ class Visualizer:
             update,
             interval=200
         )
-        self.ax.clear()
-        self.ax.imshow(wave, cmap='viridis')
+                
         plt.show()
